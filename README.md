@@ -1,4 +1,4 @@
-# EE599_CV-Project-Assignment
+# EE599_CV-Project Assignment
 
 
 This project has two subtasks: category classification and pairwise compatibility classification.
